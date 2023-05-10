@@ -4,7 +4,7 @@ public class Radio {
         private int currentStation;
         private int currentVolume;
 
-        public int getCurrentStation() {
+        public int getCurrentStation() {   //Просто комментарий (Тест!)
             return currentStation;
         }
 
